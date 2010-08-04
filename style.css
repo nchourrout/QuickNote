@@ -1,0 +1,109 @@
+body {         
+	font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	font-size: 16px; 
+	border: 0px;
+	margin: 20px;
+	padding: 0px;
+	background-color: white;
+	color: #303030;
+}
+
+#container{
+	width : 800px;
+	margin-left : auto;
+	margin-right : auto;
+	margin-top : 50px;
+} 
+
+h1 {
+	text-align : center;
+	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	font-weight: 100;
+	font-size: 40px; 
+	margin : 0;
+	margin-bottom: 10px;
+}
+
+input, textarea { 
+	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	font-weight: 100;
+	letter-spacing: 1px;
+	border: 3px solid #dddddd;
+	margin: 0px 0px 0px 0px;
+	padding: 2px;
+	width : 800px;
+} 
+
+textarea{
+	font-size : 14px;
+    overflow:hidden;
+    height:auto;
+    width:800px;
+}
+
+intput{
+	font-size: 18px;
+} 
+
+input[type=submit]
+{
+	background : #f8f8f8;
+	width : 100px;
+}
+
+p, td, li, pre  {               
+	font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	line-height: 1.2em;
+	font-size : 15px;
+	border: 0px;
+	padding: 0px; 
+	margin : 15px;
+	font-weight: 200;
+} 
+
+p{
+	margin-left : 20px;
+}
+
+ul{
+	margin-left : 40px;
+}
+
+a{
+	color:#303030;
+	text-decoration:none;
+	border-bottom: 1px dotted #303030;
+}
+
+table{
+	border-collapse:collapse;
+	border:0px;
+	margin-bottom:10px;
+}
+
+.line_number{
+	color:#ffaaa8;
+	text-align:center;
+	width:30px;
+	margin-right:10px;
+}			
+
+.error{
+	font-weight:100;
+	color: #ffaaa8;
+	font-size:18px;
+}
+
+.notif{
+	font-weight:100;
+	color: #7ba7ff;
+	font-size:18px;
+}
+
+#help_tip{
+	position:absolute;
+	right:0;
+	bottom:0;
+	font-style:italic;
+	font-size:15px;
+}
