@@ -7,7 +7,7 @@ QuickNote is a fast and simple way to manage your notes using a command line int
 License
 =======
 
-This software is distributed under the `GPL`_ license.
+This software is distributed under the GPL_ license.
 
 .. _GPL: gpl.txt
 
