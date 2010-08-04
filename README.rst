@@ -7,15 +7,16 @@ QuickNote is a fast and simple way to manage your notes using a command line int
 License
 =======
 
-This software is distributed under the GPL_ license.
-.. _GPL: GPL-LICENSE.txt
+This software is distributed under the `GPL`_ license.
+
+.. _GPL: gpl.txt
 
 Author
 ======
 
-Nicolas Chourrout <nchourrout [at] gmail [dot] com> (_website)
+Nicolas Chourrout <nchourrout [at] gmail [dot] com> (`website`_)
 
-_website:http://nchourrout.fr
+.. _website: http://nchourrout.fr
 
 
 More information
@@ -23,7 +24,7 @@ More information
 
 * the source code is `hosted in GitHub`_
 * bugs and support are managed at getsatisfaction.com
-* a documentation is available in the _wiki
+* a documentation is available in the `wiki`_
 
 .. _hosted in GitHub: http://github.com/nchourrout/QuickNote
 .. _wiki: http://wiki.github.com/nchourrout/QuickNote/
