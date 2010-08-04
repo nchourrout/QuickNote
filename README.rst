@@ -9,12 +9,13 @@ License
 
 This software is distributed under the GPL_ license.
 
-.. _GPL: gpl.txt
+.. _GPL: http://www.gnu.org/licenses/gpl.html
 
 Author
 ======
 
-Nicolas Chourrout <nchourrout [at] gmail [dot] com> (`website`_)
+Nicolas Chourrout : `website`_
+<nchourrout [at] gmail [dot] com> 
 
 .. _website: http://nchourrout.fr
 
