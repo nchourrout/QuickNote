@@ -303,7 +303,7 @@ function read( $filename )
 
 function linkify( $text )
 {
-  return preg_replace('@((http?://)?([-\w]+\.[-\w\.]+)+\w(:\d+)?(/([-\w/_\.]*(\?\S+)?)?)*)@', '<a href="$1">$1</a>' , $text);
+  return preg_replace('@((http?://)?(([-\w]+\.[-\w\.]+)+\w(:\d+)?(/([-\w/_\.]*(\?\S+)?)?)*))@', '<a href="http://$3">$1</a>' , $text);
 }
 
 function deleteLine( $filename , $delLine )
