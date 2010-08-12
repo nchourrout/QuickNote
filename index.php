@@ -669,7 +669,7 @@ function parseArgs( $cmdLine )
 			<?php $editor_style = ( $editor_visible )? "display:block" : "display:none"; ?>
 			<form name="editor" id="editor" method="post" style="<?php echo $editor_style ?>" action="">
 					<textarea rows="1" cols="100" id="editor_content" name="editor_content" onkeypress="triggerAutosave()"><?php echo $editor_text ?></textarea>
-					<input type="hidden" name="editor_note" id="editor_note" value="<?php echo $note ?>"/>
+					<input type="hidden" name="editor_note" id="editor_note" value="<?php echo $note ?>" autocomplete="off"/>
 					<br/><br/><input type="submit" value="Saved" id="submit_editor" disabled="disabled"/>
 					<br/><br/>
 			</form>
