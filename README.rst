@@ -24,7 +24,6 @@ More information
 ================
 
 * the source code is `hosted in GitHub`_
-* bugs and support are managed at getsatisfaction.com
 * a documentation is available in the `wiki`_
 
 .. _hosted in GitHub: http://github.com/nchourrout/QuickNote
