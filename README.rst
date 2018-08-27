@@ -14,7 +14,7 @@ This software is distributed under the GPL_ license.
 Author
 ======
 
-Nicolas Chourrout : `website`_
+Nicolas Chourrout : http://chourrout.com
 
 More information
 ================
